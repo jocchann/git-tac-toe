@@ -22,4 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
 package-lock.json
+=======
+.env
+>>>>>>> 56ecb9b0d74a585f07cffbf5a54760c9eaf98d86
